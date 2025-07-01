@@ -1,4 +1,4 @@
-# Overview
+# Overview.
 ### The purpose of thie document is to provide a quick reference to users looking to interact with KQL Queries in Microsoft Threat Protection from outside of the portal. It summarizes information from MS docs along with useful links, notes and code snippets.
 #### Contents:
   
